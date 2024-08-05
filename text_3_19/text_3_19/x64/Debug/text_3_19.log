@@ -1,0 +1,6 @@
+﻿  text.c
+C:\Users\yanru\Desktop\text227\text_3_19\text_3_19\text.c(126,10): warning C4047: “=”:“char”与“char *”的间接级别不同
+C:\Users\yanru\Desktop\text227\text_3_19\text_3_19\text.c(124,9): warning C4047: “初始化”:“char *”与“char”的间接级别不同
+C:\Users\yanru\Desktop\text227\text_3_19\text_3_19\text.c(135,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\yanru\Desktop\text227\text_3_19\text_3_19\text.c(136,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  text_3_19.vcxproj -> C:\Users\yanru\Desktop\text227\text_3_19\x64\Debug\text_3_19.exe

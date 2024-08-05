@@ -1,0 +1,3 @@
+﻿  text.c
+C:\Users\yanru\Desktop\text227\text_3_28\text_3_28\text.c(54,2): warning C4002: 类函数宏的调用“assert”参数过多
+  text_3_28.vcxproj -> C:\Users\yanru\Desktop\text227\text_3_28\x64\Debug\text_3_28.exe

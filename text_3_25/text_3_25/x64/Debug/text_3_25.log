@@ -1,0 +1,3 @@
+﻿  text.c
+C:\Users\yanru\Desktop\text227\text_3_25\text_3_25\text.c(80,1): warning C4716: “move_odd_even”: 必须返回一个值
+  text_3_25.vcxproj -> C:\Users\yanru\Desktop\text227\text_3_25\x64\Debug\text_3_25.exe

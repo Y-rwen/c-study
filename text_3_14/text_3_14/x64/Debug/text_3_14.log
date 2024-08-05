@@ -1,0 +1,37 @@
+﻿  text.c
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(207,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(207,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(208,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(208,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(209,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(209,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(210,7): error C2065: “ACR0”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(211,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(211,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(212,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(212,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(213,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(213,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(214,7): error C2065: “AMR0”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(215,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(215,2): error C2065: “SJA”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(215,2): error C2146: 语法错误: 缺少“]”(在标识符“ADR”的前面)
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(215,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(216,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(216,2): error C2065: “SJA”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(216,2): error C2146: 语法错误: 缺少“]”(在标识符“ADR”的前面)
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(216,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(217,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(217,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(218,7): error C2065: “BTR0”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(219,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(219,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(220,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(220,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(222,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(222,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(223,6): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(223,6): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(224,2): error C2065: “XBYTE”: 未声明的标识符
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(224,2): error C2109: 下标要求数组或指针类型
+C:\Users\yanru\Desktop\text227\text_3_14\text_3_14\text.c(225,2): warning C4013: “Delay”未定义；假设外部返回 int

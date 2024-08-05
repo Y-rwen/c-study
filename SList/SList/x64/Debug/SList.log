@@ -1,0 +1,5 @@
+﻿  SList.c
+  test.c
+C:\Users\yanru\Desktop\text227\SList\test.c(35,10): warning C4098: “TestList2”:“void”函数返回值
+  正在生成代码...
+  SList.vcxproj -> C:\Users\yanru\Desktop\text227\SList\x64\Debug\SList.exe

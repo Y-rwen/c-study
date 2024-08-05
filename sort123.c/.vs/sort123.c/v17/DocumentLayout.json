@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yanru\\Desktop\\text227\\sort123.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A84A9CEA-C959-4F68-A84B-24C16BE4C0E8}|sort123.c.vcxproj|C:\\Users\\yanru\\Desktop\\text227\\sort123.c\\sort123.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A84A9CEA-C959-4F68-A84B-24C16BE4C0E8}|sort123.c.vcxproj|solutionrelative:sort123.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84A9CEA-C959-4F68-A84B-24C16BE4C0E8}|sort123.c.vcxproj|C:\\Users\\yanru\\Desktop\\text227\\sort123.c\\Stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A84A9CEA-C959-4F68-A84B-24C16BE4C0E8}|sort123.c.vcxproj|solutionrelative:Stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84A9CEA-C959-4F68-A84B-24C16BE4C0E8}|sort123.c.vcxproj|C:\\Users\\yanru\\Desktop\\text227\\sort123.c\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A84A9CEA-C959-4F68-A84B-24C16BE4C0E8}|sort123.c.vcxproj|solutionrelative:Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.c",
+              "DocumentMoniker": "C:\\Users\\yanru\\Desktop\\text227\\sort123.c\\Stack.c",
+              "RelativeDocumentMoniker": "Stack.c",
+              "ToolTip": "C:\\Users\\yanru\\Desktop\\text227\\sort123.c\\Stack.c",
+              "RelativeToolTip": "Stack.c",
+              "ViewState": "AQIAADkAAAAAAAAAAAD4vyIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-14T09:33:48.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.h",
+              "DocumentMoniker": "C:\\Users\\yanru\\Desktop\\text227\\sort123.c\\Stack.h",
+              "RelativeDocumentMoniker": "Stack.h",
+              "ToolTip": "C:\\Users\\yanru\\Desktop\\text227\\sort123.c\\Stack.h",
+              "RelativeToolTip": "Stack.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-14T09:33:46.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sort123.c",
+              "DocumentMoniker": "C:\\Users\\yanru\\Desktop\\text227\\sort123.c\\sort123.c",
+              "RelativeDocumentMoniker": "sort123.c",
+              "ToolTip": "C:\\Users\\yanru\\Desktop\\text227\\sort123.c\\sort123.c",
+              "RelativeToolTip": "sort123.c",
+              "ViewState": "AQIAAEQBAAAAAAAAAAAAAE8BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-14T06:33:15.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
