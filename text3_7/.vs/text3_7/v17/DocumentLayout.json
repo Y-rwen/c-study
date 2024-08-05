@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yanru\\Desktop\\text227\\text3_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10F2C85F-11A1-4C61-A221-E9EBF9AAFC3C}|text3_7\\text3_7.vcxproj|C:\\Users\\yanru\\Desktop\\text227\\text3_7\\text3_7\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10F2C85F-11A1-4C61-A221-E9EBF9AAFC3C}|text3_7\\text3_7.vcxproj|solutionrelative:text3_7\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "C:\\Users\\yanru\\Desktop\\text227\\text3_7\\text3_7\\text.c",
+              "RelativeDocumentMoniker": "text3_7\\text.c",
+              "ToolTip": "C:\\Users\\yanru\\Desktop\\text227\\text3_7\\text3_7\\text.c",
+              "RelativeToolTip": "text3_7\\text.c",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-07T04:52:03.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
