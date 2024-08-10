@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.40.33807:TargetPlatformVersion=10.0.22621.0:
 Debug|x64|C:\Users\yanru\Desktop\text227\Linear_sort\|
+=======
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.40.33807:TargetPlatformVersion=10.0.22621.0:
+Debug|x64|C:\Users\yanru\Desktop\text227\Linear_sort\|
+>>>>>>> 5443f39887e0d84592ea621cdd19c257d5a492c4
